@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PasswordGenerator</string>
+    <string name="generatePW_button">Generate Password</string>
+    <string name="deletePW_button">Delete Password</string>
+    <string name="pwString">Password</string>
+
+</resources>
